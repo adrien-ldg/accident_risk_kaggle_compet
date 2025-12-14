@@ -2,7 +2,7 @@
 
 <!-- Badges compétences -->
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python\&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg?logo=python\&logoColor=white)](https://www.python.org/)
 [![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-purple?logo=pandas\&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-lightblue?logo=numpy\&logoColor=white)](https://numpy.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange?logo=scikitlearn\&logoColor=white)](https://scikit-learn.org/)
